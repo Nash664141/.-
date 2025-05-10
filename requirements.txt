@@ -1,0 +1,8 @@
+websocket-client
+numpy
+scikit-learn
+xgboost
+tensorflow
+statsmodels
+requests
+pickle-mixin
